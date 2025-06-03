@@ -48,10 +48,19 @@ This audit was conducted using:
 │   ├── report-basic.pdf
 │   ├── findings.md
 │   └── finding_layout.md
+├── src/
+│   └── PasswordStore.sol
+├── test/
+│   └── PasswordStore.t.sol
 ├── solidity-metrics.html
 ├── notes.md
-└── README.md
-```
+├── password-store-logo.png
+└── README.md ```
+
+## Audited Contract
+
+- **[PasswordStore.sol](src/PasswordStore.sol)** - The smart contract that was audited
+- **[PasswordStore.t.sol](test/PasswordStore.t.sol)** - Associated test file
 
 ## Contact
 
