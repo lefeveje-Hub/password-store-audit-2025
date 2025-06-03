@@ -1,7 +1,7 @@
 ---
 title: PasswordStore Audit Report
 author: Joe LeFever
-date: September 1, 2023
+date: June 3, 2025
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -16,7 +16,7 @@ header-includes:
     \vspace{1cm}
     {\Large Version 0.1\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
+    {\Large\itshape Joe LeFever\par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -28,7 +28,7 @@ header-includes:
 Prepared by: Joe LeFever
 Lead Auditors: 
 
-- [Joe LeFever](enter your URL here)
+- [Joe LeFever](https://github.com/lefeveje-Hub)
 
 Assisting Auditors:
 
@@ -87,7 +87,7 @@ The "Joe LeFever" team makes all effort to find as many vulnerabilities in the c
 
 **The findings described in this document correspond the following commit hash:**
 ```
-2e8f81e263b3a9d18fab4fb5c46805ffc10a9990
+41e01be
 ```
 
 ## Scope 
